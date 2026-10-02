@@ -11,4 +11,4 @@ Simplest web language (probably)
 ## Syntax
 > You can find all syntax inside of [test.sulphur](https://raw.githubusercontent.com/paintdev/Sulphur/refs/heads/main/test.sulphur).
 > 
-> You can also use most HTML syntax, such as <strong>, etc.
+> You can also use most HTML syntax, such as `<strong>`, etc.
