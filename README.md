@@ -3,7 +3,7 @@ Simplest web language (probably)
 ## Installation & usage guide
 > The latest version of Python is required. Earlier versions may work, but it's recommended to be up-to-date.
 >
-> Run `https://github.com/paintdev/Sulphur.git` in your terminal, or [download the zip](https://github.com/paintdev/Sulphur/archive/refs/heads/main.zip)
+> Run `git clone https://github.com/paintdev/Sulphur.git` in your terminal, or [download the zip](https://github.com/paintdev/Sulphur/archive/refs/heads/main.zip)
 >
 > Either run `cd Sulphur` in your terminal, or extract the zipped folder and open it.
 >
